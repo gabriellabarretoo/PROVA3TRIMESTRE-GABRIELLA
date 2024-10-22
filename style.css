@@ -1,0 +1,23 @@
+.img{
+    width: 50%;
+    height: 50%;
+}
+header{
+    text-align: center;
+    text-decoration: solid;
+    border-bottom: 0cqmax;
+    margin: 20px;
+    color: black;
+    font-size: larger;
+    font-style: initial;
+}
+body{
+    background-color: rgb(238, 129, 187);
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    text-decoration: solid;
+    color: black;
+font-size: larger;
+font-style: initial;
+}
